@@ -1,0 +1,4 @@
+int a,b:
+a=43;
+b=35;
+Console.WriteLine("Addition is "+ a+b);
