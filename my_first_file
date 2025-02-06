@@ -1,9 +1,9 @@
 int a,b:
-a=43;
-b=35;
-Console.WriteLine("Addition is "+ a+b);
-
-int a,b:
 a=439;
 b=325;
 Console.WriteLine("Suntraction is "+ a-b);
+
+int a,b:
+a=4;
+b=5;
+Console.WriteLine("Multiplication is "+ a*b);
